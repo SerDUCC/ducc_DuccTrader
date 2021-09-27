@@ -1,0 +1,7 @@
+{
+	"name": "ducc",
+	"author": "DUCC",
+	"version": "1.HONK.0",
+	"license": "GNU GPL V3",
+	"main": "package.js"
+}

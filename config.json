@@ -1,0 +1,7 @@
+{
+	"duccTrader": {
+		"enabled": true,
+		"enable_repair": false,
+		"enable_insurance": false
+	}
+}
